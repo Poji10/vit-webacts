@@ -1,0 +1,42 @@
+div.topbar{
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+div.photo{
+    padding: 0px 0px 0px 0px;
+}
+img.photo{
+    width: 150px;
+    margin: 0px 0px 0px 0px;
+}
+
+div.details{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+    background-color: yellow;
+}
+
+div.name{
+    background-color: aliceblue;
+}
+div.reg{
+    background-color: aqua;
+}
+
+div.courses{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
+
+div.ML{
+    display: grid;
+    grid-template-columns: 150px 80px;
+}
+
+img.course{
+    height:50px;
+    margin: 0px 0px 0px 0px;
+}
