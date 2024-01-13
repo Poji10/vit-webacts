@@ -1,0 +1,34 @@
+th{
+    color: rgb(15, 215, 15);
+    background-color: red;
+}
+
+tbody tr:nth-child(even) td{
+    background-color: yellow;
+}
+
+table,th,td{
+    border: 1px solid brown;
+    border-spacing: 0px;
+    text-align: center;
+}
+
+th,td{
+    width: 120px;
+}
+
+table{
+    margin: 0px 0px 0px 0px;
+}
+
+div.table{
+    margin: 0px 0px 0px 0px;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    right: 30%;
+}
+
+h1{
+    text-align:center;
+}
